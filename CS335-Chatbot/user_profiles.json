@@ -1,0 +1,32 @@
+{
+  "John": {
+    "name": "John",
+    "height": null,
+    "weight": null,
+    "age": null,
+    "fitness_goals": [],
+    "preferences": {},
+    "chat_history": [],
+    "last_updated": "2025-07-28T00:14:10.292552"
+  },
+  "Hello": {
+    "name": "Hello",
+    "height": null,
+    "weight": null,
+    "age": null,
+    "fitness_goals": [],
+    "preferences": {},
+    "chat_history": [],
+    "last_updated": "2025-07-28T01:07:12.435424"
+  },
+  "Hhello": {
+    "name": "Hhello",
+    "height": null,
+    "weight": null,
+    "age": null,
+    "fitness_goals": [],
+    "preferences": {},
+    "chat_history": [],
+    "last_updated": "2025-07-28T01:40:14.715023"
+  }
+}
