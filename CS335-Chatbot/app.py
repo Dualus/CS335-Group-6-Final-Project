@@ -9,9 +9,8 @@ from datetime import datetime
 
 app = Flask(__name__)
 
-# -------------------------
+
 # User Profile Class
-# -------------------------
 class UserProfile:
     def __init__(self, name=""):
         self.name = name
@@ -48,9 +47,7 @@ class UserProfile:
         return profile
 
 
-# -------------------------
 # Intent Classifier
-# -------------------------
 class IntentClassifier:
     def __init__(self):
         self.patterns = {
